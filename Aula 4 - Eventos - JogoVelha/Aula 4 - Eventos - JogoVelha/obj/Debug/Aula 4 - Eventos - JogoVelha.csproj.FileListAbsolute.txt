@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\bin\Debug\Aula 4 - Eventos - JogoVelha.exe.config
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\bin\Debug\Aula 4 - Eventos - JogoVelha.exe
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\bin\Debug\Aula 4 - Eventos - JogoVelha.pdb
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\obj\Debug\Aula 4 - Eventos - JogoVelha.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\obj\Debug\Aula_4___Eventos___JogoVelha.Form1.resources
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\obj\Debug\Aula_4___Eventos___JogoVelha.Properties.Resources.resources
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\obj\Debug\Aula 4 - Eventos - JogoVelha.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\obj\Debug\Aula 4 - Eventos - JogoVelha.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\obj\Debug\Aula 4 - Eventos - JogoVelha.exe
+C:\Users\user\Desktop\Computação\A&DdS UNIVALI\2021_2_1\Programming and Data Persistence\Aulas\Aula 4 - Eventos - JogoVelha\Aula 4 - Eventos - JogoVelha\obj\Debug\Aula 4 - Eventos - JogoVelha.pdb
